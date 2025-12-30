@@ -439,7 +439,6 @@ CCTV14少儿,http://119.123.176.238:8086/hls/15/index.m3u8
 CCTV14少儿,http://27.41.245.32:801/hls/14/index.m3u8
 CCTV14少儿,http://183.7.172.159:8888/hls/30/index.m3u8
 广东少儿,http://rihou.cc:555/tv/[AtI]广东少儿
-嘉佳卡通,http://156.238.248.80/2099.php?id=1802
 北京卡酷少儿,http://vapi.91kds.cc/live1/btv1.m3u8?id=btvkk&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
 北京卡酷少儿,http://114.242.62.109:888/hls/26/index.m3u8
 北京卡酷少儿,http://btjg.net:809/hls/49/index.m3u8
