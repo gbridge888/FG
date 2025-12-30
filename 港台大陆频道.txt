@@ -21,6 +21,7 @@
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=9e5008d4b91944fa76a957a93ae54870&txTime=1903e5f1cfd
 翡翠台,http://rihou.cc:555/tv/[Pd]无线翡翠
+翡翠台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/2.ts
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://r.jdshipin.com/thuYX
@@ -50,6 +51,7 @@ TVB千禧经典,http://php.jdshipin.com/smt.php?id=Tvbclassic
 TVB功夫,http://rihou.cc:555/tv/[Pd]无线功夫
 TVB功夫,http://hls-pull-wicketpw.speedws.com/live/chNDM1yTG8UNfbemYe3QFaC10n2vqBePUyvCKs7NLnIKhl7lKu.flv
 TVB功夫,P2p://starvod.xyz:19806/6043814031384523bc272f4f87aeb298.ts
+TVB娱乐新闻台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/60.ts
 TVB娱乐新闻台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
 TVB娱乐新闻台,https://cdn9.163189.xyz/smt1.1.php?id=Tvbentertainment
 TVB娱乐新闻台,http://rihou.cc:555/tv/[PL]无线娱乐
@@ -57,13 +59,17 @@ ViuTV,https://cdn.163189.xyz/163189/viu
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 ViuTV,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
+ViuTV6,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/32.ts
 ViuTV6,https://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
 ViuTV6,https://cdn9.163189.xyz/smt1.1.php?id=viusix_twn
+RHK31,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/24.ts
 RHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RHK31,http://rihou.cc:555/tv/[PL]RTHK-31
 RHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 RHK32,http://rihou.cc:555/tv/[PL]RTHK-32
 RHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+无线新闻台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/3.ts
+无线新闻台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/8.ts
 无线新闻台,https://cdn6.101.qzz.io/163189/wxxw
 无线新闻台,http://bxtv.3a.ink/api.php?id=wxxw
 无线新闻台,http://hls.168.us.kg/u/83/master.m3u8
@@ -80,6 +86,7 @@ RHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 凤凰资讯HD,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰资讯HD,http://r.jdshipin.com/0Rp07
 凤凰资讯HD,http://43.152.143.193/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
+凤凰香港台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/19.ts
 凤凰香港台,https://cdn6.101.qzz.io/163189/fhhk
 凤凰香港台,http://rihou.cc:555/tv/[Bx]凤凰香港
 凤凰香港台,http://rihou.cc:555/tv/[PL]凤凰香港
@@ -113,6 +120,7 @@ Now体育,http://rihou.cc:555/tv/[Mt]Now体育
 台視新聞HD,https://zhong9527.dpdns.org/m3u8/ts369789.m3u8
 台視新聞HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/174.ts
 東森新聞台HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/162.ts
+東森新聞台HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/417.ts
 東森新聞台HD,http://156.238.248.80/2099.php?id=357
 東森新聞台HD,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
 東森新聞台HD,http://165.154.226.214:50007/li-4gtv-4gtv152/index.m3u8?proxy=true
@@ -125,6 +133,7 @@ Now体育,http://rihou.cc:555/tv/[Mt]Now体育
 非凡新聞HD,rtmp://f13h.mine.nu/sat/tv581
 年代新聞HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/165.ts
 三立新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/166.ts
+三立新聞,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/418.ts
 TVBS新聞台HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/163.ts
 TVBS新聞台HD,http://iptv.4666888.xyz/iptv2A.php?id=43
 TVBS新聞台HD,http://156.238.248.80/2099.php?id=361
@@ -160,7 +169,16 @@ TVBS新聞台HD,http://156.238.248.80/2099.php?id=361
 民视影剧,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/194.ts
 民视影剧,http://iptv.4666888.xyz/iptv2A.php?id=53
 民视旅游,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/195.ts
+八大综合台HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/241.ts
+八大综合台HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/243.ts
+八大综合台HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/421.ts
+八大戏剧台HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/242.ts
+八大戏剧台HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/423.ts
+八大第1台HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/244.ts
+八大第1台HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/422.ts
+八大娱乐台HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/245.ts
 八大綜藝台,http://165.154.226.214:50007/li-4gtv-4gtv039/index.m3u8?proxy=true
+八大精彩台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/240.ts
 八大精彩台,http://165.154.226.214:50007/li-4gtv-4gtv034/index.m3u8?proxy=true
 八大优频道,P2p://147.135.39.171:9906/686141c600004a257bb419081c1d2844.ts
 TVBS HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/182.ts
@@ -173,11 +191,15 @@ TVBS台剧台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/111122
 三立综合台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/187.ts
 三立综合台,P2p://147.135.39.171:9906/6869374a000888579acb331f46c77c60.ts
 三立台湾台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/188.ts
+三立台湾台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/419.ts
 三立都会台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/189.ts
+三立都会台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/420.ts
 三立戏剧台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/190.ts
 壹综合HD,P2p://147.135.39.171:9906/685f810d000eeaf174db4a19563a6520.ts
 好消息,http://165.154.226.214:50007/of-litv-ftv16/index.m3u8?proxy=true
 好消息2台,http://165.154.226.214:50007/of-litv-ftv17/index.m3u8?proxy=true
+緯來综合HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/425.ts
+緯來體育HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/424.ts
 緯來體育HD,rtmp://f13h.mine.nu/sat/tv721
 DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
 DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
@@ -204,6 +226,7 @@ CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
 星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 东森综合HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/178.ts
 东森综合HD,http://156.238.248.80/2099.php?id=356
+东森戏剧HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/416.ts
 东森戏剧HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/180.ts
 东森戏剧HD,http://156.238.248.80/2099.php?id=359
 ANIMAX,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/200.ts
@@ -215,23 +238,30 @@ CCTV6电影,http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
 CCTV6电影,http://kouki.pro:8888/udp/239.49.8.76:8000
 CCTV6电影,https://iptv.catvod.com/live.php?id=CCTV-6
 CHC家庭电影,http://27.41.245.32:801/hls/905/index.m3u8
+HBO,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/37.ts
+HBO,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/202.ts
 PopC电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/45.ts
 PopC电影,P2p://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
 1905电影网,http://xxwx.yoesun.com/xxw/1905%E7%94%B5%E5%BD%B1%E7%BD%91.php?id=1905
 1905电影网,http://kkk.888.3116598.xyz/api.php?n=xxxtw&id=kPj5g5&tk=RutcEtui3ueC
 1905电影网,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
 中国电影频道,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/44.ts
+凤凰电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/20.ts
 凤凰电影,http://39.107.120.164:8080/live/diyp_fhdy.m3u8
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 美亚电影台HD,http://iptv.4666888.xyz/iptv2A.php?id=30
 美亚电影台HD,P2p://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
 美亚电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/42.ts
+美亚电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/43.ts
 美亚电影,http://156.238.248.80/2099.php?id=129
 美亚电影,http://rihou.cc:555/tv/[PL]美亚电影
 美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 美亚电影,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+壹电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/222.ts
+好莱坞电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/210.ts
+龙祥时代电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/209.ts
 东森电影HD,http://156.238.248.80/2099.php?id=358
 华数电影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
 Now爆谷台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/41.ts
@@ -499,6 +529,7 @@ CCTV14少儿,http://183.7.172.159:8888/hls/30/index.m3u8
 甘肃少儿,https://liveout.gstv.com.cn/skt649/ys1xzs.m3u8
 黑龙江少儿,http://shuangyashan.coccc.online:65000/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 江西少儿,http://113.195.172.192:808/hls/11/index.m3u8
+龙华卡通,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/239.ts
 龙华卡通,http://156.238.248.80/2099.php?id=110
 
 18+私密频道(免翻),#genre#
